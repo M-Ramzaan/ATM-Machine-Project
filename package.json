@@ -1,0 +1,22 @@
+{
+  "name": "ramzi1st-atm-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "inquirer": "^9.2.17"
+  }
+}
